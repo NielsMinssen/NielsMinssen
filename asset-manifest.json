@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.f5497eb8.chunk.css",
+    "main.js": "/static/js/main.045da903.chunk.js",
+    "main.js.map": "/static/js/main.045da903.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.554504a0.js",
+    "runtime-main.js.map": "/static/js/runtime-main.554504a0.js.map",
+    "static/js/2.a77411cc.chunk.js": "/static/js/2.a77411cc.chunk.js",
+    "static/js/2.a77411cc.chunk.js.map": "/static/js/2.a77411cc.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.532548f615d0117fbedc7e749223099c.js": "/precache-manifest.532548f615d0117fbedc7e749223099c.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.f5497eb8.chunk.css.map": "/static/css/main.f5497eb8.chunk.css.map",
+    "static/js/2.a77411cc.chunk.js.LICENSE.txt": "/static/js/2.a77411cc.chunk.js.LICENSE.txt",
+    "static/media/IMG-20210909-WA0000.jpg": "/static/media/IMG-20210909-WA0000.f2d0fcaf.jpg",
+    "static/media/Isima.resized.jpg": "/static/media/Isima.resized.c7281ccc.jpg",
+    "static/media/Niels_Minssen.pdf": "/static/media/Niels_Minssen.7dcd2090.pdf",
+    "static/media/charente_maritime.resized.png": "/static/media/charente_maritime.resized.6b7aaf1b.png",
+    "static/media/hashirshoaeb.png": "/static/media/hashirshoaeb.32f6b574.png",
+    "static/media/resume.pdf": "/static/media/resume.9d3da0e2.pdf",
+    "static/media/ste-anne.resized.png": "/static/media/ste-anne.resized.52f64ccd.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.554504a0.js",
+    "static/js/2.a77411cc.chunk.js",
+    "static/css/main.f5497eb8.chunk.css",
+    "static/js/main.045da903.chunk.js"
+  ]
+}
